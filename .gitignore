@@ -9,3 +9,7 @@ checksums.txt
 .DS_Store
 /findphone
 *.csv
+
+
+
+.gitignore
